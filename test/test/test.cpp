@@ -8,7 +8,9 @@ using namespace std;
 int main()
 {
     std::cout << "Hello World!\n";
-    cout << "main test";
+    cout << "main test\r\n";
+
+    cout << "branch user1\r\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
