@@ -7,10 +7,13 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    cout << "main test\r\n";
+	std::cout << "Hello World!\n";
+	cout << "main test\r\n";
 
-    cout << "branch user1\r\n";
+	cout << "branch user1\r\n";
+
+	cout << "branch user1 test2\r\n";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
