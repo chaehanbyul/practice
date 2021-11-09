@@ -14,6 +14,7 @@ int main()
 
 	cout << "branch user1 test2\r\n";
 
+	cout << " branch user2 test1\r\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
